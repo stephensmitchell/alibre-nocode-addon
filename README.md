@@ -40,4 +40,3 @@ MIT — see license.
 ## Credit & Citation
 
 N/A
-
